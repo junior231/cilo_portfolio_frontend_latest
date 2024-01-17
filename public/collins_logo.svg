@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 612 792" style="enable-background:new 0 0 612 792;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#059995;}
+	.st1{fill:#0EBC04;}
+	.st2{display:none;}
+	.st3{display:inline;fill:none;}
+	.st4{display:inline;}
+	.st5{font-family:'AgencyFB-Reg';}
+	.st6{font-size:24px;}
+	.st7{letter-spacing:2;}
+	.st8{display:inline;fill:#0EBC04;}
+</style>
+<g id="coloured">
+	<path id="Letter_x5F_C_1_" class="st0" d="M146,280.71c0,0,0-18.71,18.71-18.71s74.86,0,74.86,0s18.71,0,18.71,18.71
+		c0,18.71-0.25,25.29-0.25,25.29l-27.82,0.25v-25.54h-56.14v215.21L231,496l0.21-23H259l-0.71,32.29c0,0-7.29,16.71-18.71,18.71
+		c-9.22,1.61-74.86,0-74.86,0S152,525,146,505.29V280.71z"/>
+	<g id="letter_x5F_i_1_">
+		<rect id="i_1_" x="232" y="363" class="st1" width="25.92" height="97"/>
+		<rect id="dot_1_" x="232" y="320" class="st1" width="26" height="26"/>
+	</g>
+	<g id="collins_ilo_1_" class="st2">
+		<rect x="293.06" y="494" class="st3" width="231.94" height="34"/>
+		<text transform="matrix(1 0 0 1 293.0645 512.3359)" class="st4"><tspan x="0" y="0" class="st0 st5 st6 st7">COLLINS</tspan><tspan x="79.14" y="0" class="st5 st6 st7"> </tspan><tspan x="86.24" y="0" class="st1 st5 st6 st7">IL</tspan></text>
+		<rect x="379" y="494" class="st3" width="28" height="34"/>
+		<text id="o_1_" transform="matrix(-1 0 0 1 407 512.3359)" class="st8 st5 st6 st7">C</text>
+	</g>
+</g>
+</svg>
